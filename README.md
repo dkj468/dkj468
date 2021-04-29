@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @dkj468
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Deepak Kumar Jain
+- 👀 I’m interested in
+-   - Web Development using Node , Angular, HTMl, CSS, JavaScript
+-   - Delphi development
+- 🌱 I’m currently learning Node, Angular, Azure
+- 💞️ I’m looking to collaborate on Web Development work
 - 📫 How to reach me ...
 
 <!---
